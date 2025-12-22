@@ -32,3 +32,5 @@ C:\Duan\1.game_dev\game_passion\my_first_game\obj\Debug\net9.0\refint\my_first_g
 C:\Duan\1.game_dev\game_passion\my_first_game\obj\Debug\net9.0\my_first_game.pdb
 C:\Duan\1.game_dev\game_passion\my_first_game\obj\Debug\net9.0\my_first_game.genruntimeconfig.cache
 C:\Duan\1.game_dev\game_passion\my_first_game\obj\Debug\net9.0\ref\my_first_game.dll
+C:\Duan\1.game_dev\game_passion\my_first_game\bin\Debug\net9.0\MonoGameLibrary.dll
+C:\Duan\1.game_dev\game_passion\my_first_game\bin\Debug\net9.0\MonoGameLibrary.pdb
