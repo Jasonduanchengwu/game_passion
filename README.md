@@ -10,6 +10,5 @@ dotnet new mgdesktopgl -n <game name>
 dotnet new sln -n <game name>
 dotnet sln add ./<path>.csproj
 ```
-## Game: Dungeon Slime
 
 
